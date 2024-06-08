@@ -1,2 +1,2 @@
 # Budget Tracker
-A Kotlin Android Application for budgeting
+A Kotlin Android application for budget tacking.
