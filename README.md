@@ -1,2 +1,2 @@
 # Budget Tracker App
-Written in Kotlin.
+Written in Kotlin language.
